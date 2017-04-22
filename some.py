@@ -1,0 +1,2 @@
+something = "asdf"
+print something
